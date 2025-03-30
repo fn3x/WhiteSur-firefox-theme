@@ -1,3 +1,5 @@
+## R.I.P. Firefox 09.11.2004 - [26.02.2025](https://github.com/mozilla/bedrock/commit/d459addab846d8144b61939b7f4310eb80c5470e)
+
 
 ## <p align="center">Firefox Safari theme</p>
 
